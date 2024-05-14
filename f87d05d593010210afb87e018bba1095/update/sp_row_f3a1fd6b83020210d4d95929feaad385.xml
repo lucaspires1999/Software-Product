@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_column/>
+        <sp_container display_value="Software Product - Container 1">47df8d5d93010210afb87e018bba104f</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-14 19:48:41</sys_created_on>
+        <sys_id>f3a1fd6b83020210d4d95929feaad385</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
+        <sys_update_name>sp_row_f3a1fd6b83020210d4d95929feaad385</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-14 19:48:41</sys_updated_on>
+    </sp_row>
+</record_update>
