@@ -2,21 +2,42 @@
     <sp_page action="INSERT_OR_UPDATE">
         <category>custom</category>
         <css>body {&#13;
-  background-color: blue;&#13;
-  color: white; /* Optional: Set the text color to white for better readability */&#13;
-  &#13;
-  &#13;
+  background-color: #e0f7fa; /* Azul claro suave */&#13;
+  color: #333; /* Cor de texto escura para contraste */&#13;
+}&#13;
+&#13;
 .text-default {&#13;
-	color: white;&#13;
+  color: #333; /* Mantendo o texto padrão em uma cor escura */&#13;
 }&#13;
 &#13;
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {&#13;
-    font-family: inherit;&#13;
-    font-weight: 500;&#13;
-    line-height: 1.1;&#13;
-    color: white;&#13;
+  font-family: 'Helvetica Neue', Arial, sans-serif;&#13;
+  font-weight: 600;&#13;
+  line-height: 1.2;&#13;
+  color: #333; /* Cores escuras para os títulos */&#13;
 }&#13;
-  &#13;
+&#13;
+a {&#13;
+  color: #ff6f61; /* Um destaque vibrante para links */&#13;
+  text-decoration: none;&#13;
+}&#13;
+&#13;
+a:hover {&#13;
+  color: #ff3d3d; /* Um tom mais escuro ao passar o mouse */&#13;
+  text-decoration: underline;&#13;
+}&#13;
+&#13;
+button {&#13;
+  background-color: #ff6f61; /* Botões com cores vibrantes */&#13;
+  color: white;&#13;
+  border-radius: 8px;&#13;
+  padding: 10px 20px;&#13;
+  border: none;&#13;
+  cursor: pointer;&#13;
+}&#13;
+&#13;
+button:hover {&#13;
+  background-color: #ff3d3d; /* Botão com mudança de cor ao passar o mouse */&#13;
 }&#13;
 </css>
         <draft>false</draft>
@@ -33,14 +54,14 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {&#13;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-19 00:29:35</sys_created_on>
         <sys_id>fa5fcd5d93010210afb87e018bba1080</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>software_product</sys_name>
         <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
         <sys_policy/>
         <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
         <sys_update_name>sp_page_fa5fcd5d93010210afb87e018bba1080</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-15 23:41:07</sys_updated_on>
+        <sys_updated_on>2024-09-10 22:11:33</sys_updated_on>
         <title>Software Product</title>
         <use_seo_script>false</use_seo_script>
     </sp_page>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>&#13;
+&#13;
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Image</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 22:00:47</sys_created_on>
+        <sys_id>b7f40bbd8360121030d06f60ceaad377</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Image</sys_name>
+        <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
+        <sys_update_name>sp_widget_b7f40bbd8360121030d06f60ceaad377</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 22:24:52</sys_updated_on>
+        <template><![CDATA[<div style="display: flex; justify-content: center; align-items: center;">
+     <img src="banner_software_v4.png" width="725" height="300" style="border-radius: 15px;" />
+</div>
+]]></template>
+    </sp_widget>
+</record_update>
