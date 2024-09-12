@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables>$sp-logo-margin-x: 		15px !default;&#13;
+$sp-tagline-color:		$text-color !default;&#13;
+$navbar-inverse-bg: 	#0c0c0e !default;</css_variables>
+        <footer/>
+        <footer_fixed>true</footer_fixed>
+        <header display_value="Stock Header">bf5ec2f2cb10120000f8d856634c9c0c</header>
+        <name>Software Product</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 00:07:35</sys_created_on>
+        <sys_id>a270b4c593210210afb87e018bba102c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Software Product</sys_name>
+        <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
+        <sys_update_name>sp_theme_a270b4c593210210afb87e018bba102c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 00:14:37</sys_updated_on>
+        <turn_off_scss_compilation>false</turn_off_scss_compilation>
+    </sp_theme>
+</record_update>

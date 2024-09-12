@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>body {&#13;
+  background-color: blue;&#13;
+  color: white; /* Optional: Set the text color to white for better readability */&#13;
+  &#13;
+  &#13;
+.text-default {&#13;
+	color: white;&#13;
+}&#13;
+&#13;
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {&#13;
+    font-family: inherit;&#13;
+    font-weight: 500;&#13;
+    line-height: 1.1;&#13;
+    color: white;&#13;
+}&#13;
+  &#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>software_product</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles>public</roles>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-19 00:29:35</sys_created_on>
+        <sys_id>fa5fcd5d93010210afb87e018bba1080</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>software_product</sys_name>
+        <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
+        <sys_update_name>sp_page_fa5fcd5d93010210afb87e018bba1080</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 23:41:07</sys_updated_on>
+        <title>Software Product</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=fa5fcd5d93010210afb87e018bba1080"/>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Create Request">f076748d93210210afb87e018bba10b3</sc_cat_item>
+        <sc_category display_value="Category Software Product">99e5bc8d93210210afb87e018bba10e9</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 00:33:41</sys_created_on>
+        <sys_id>7076fccd93210210afb87e018bba105d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category Software Product.Create Request</sys_name>
+        <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
+        <sys_update_name>sc_cat_item_category_7076fccd93210210afb87e018bba105d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 00:33:41</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Software Product">f87d05d593010210afb87e018bba1095</application>
+        <file_path/>
+        <instance_id>e77abfb7db22bdd438f1172913961903</instance_id>
+        <instance_name>dev222890</instance_name>
+        <name>sc_cat_item_category_7076fccd93210210afb87e018bba105d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Create Request">f076748d93210210afb87e018bba10b3</sc_cat_item><sc_category display_value="Category Software Product">99e5bc8d93210210afb87e018bba10e9</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-12 00:33:41</sys_created_on><sys_id>7076fccd93210210afb87e018bba105d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Category Software Product.Create Request</sys_name><sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package><sys_policy/><sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope><sys_update_name>sc_cat_item_category_7076fccd93210210afb87e018bba105d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-12 00:33:41</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1457548178</payload_hash>
+        <record_name>Category Software Product.Create Request</record_name>
+        <reverted_from/>
+        <source>429dcd5993010210afb87e018bba1009</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 00:33:41</sys_created_on>
+        <sys_id>b476fccd93210210afb87e018bba1060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ecfb974810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 00:33:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b876fccde6210210ca3a7e4a9a5f885f</update_guid>
+        <update_guid_history>b876fccde6210210ca3a7e4a9a5f885f:1457548178</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Category Software Product.Create Request">b817744193610210afb87e018bba10e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-12 00:36:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>183791a417774a44a7cc837ce7f8b210</sys_id>
+        <sys_metadata>7076fccd93210210afb87e018bba105d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Category Software Product.Create Request</sys_name>
+        <sys_package display_value="Software Product" source="f87d05d593010210afb87e018bba1095">f87d05d593010210afb87e018bba1095</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Software Product">f87d05d593010210afb87e018bba1095</sys_scope>
+        <sys_scope_delete display_value="">53a8b2bbec4b4cfea70efec6df782281</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7076fccd93210210afb87e018bba105d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7076fccd93210210afb87e018bba105d">b476fccd93210210afb87e018bba1060</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-12 00:36:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
